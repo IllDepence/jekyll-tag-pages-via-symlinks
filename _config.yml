@@ -1,0 +1,3 @@
+exclude:
+    - _tag_by_fn.md
+    - README.md
